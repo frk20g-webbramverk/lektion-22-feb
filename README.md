@@ -8,6 +8,8 @@ Statisk shopping cart: https://gist.github.com/zocom-christoffer-wallenberg/147c
 
 Booking form: https://gist.github.com/zocom-christoffer-wallenberg/9d98c456567d3eb4baa02b4ee1c43901
 
+Split the nota: https://gist.github.com/zocom-christoffer-wallenberg/0098cbec3ffb19887780759b5260f2b2
+
 ## Artiklar
 
 Vue dokumentation: https://vuejs.org/v2/guide/
